@@ -1,1 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: snow;
+}
 
+header {
+  background-color: gold;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: forestgreen
+  text-decoration: none;
+}
+
+main {
+  margin-top: 20px;
+}
+
+section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+article {
+  background-color: lightskyblue
+  padding: 15px;
+  margin-top: 15px;
+  border-left: 5px solid deepskyblue;
+}
+
+button {
+  background-color: chrornole;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+  
+  
+  
